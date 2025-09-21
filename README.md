@@ -80,7 +80,8 @@ Git, GitHub, Pycharm, Jupyter, VS Code
 
 ## 📊 WakaTime Coding Stats
 
-[![WakaTime](https://wakatime.com/share/@aansheeagrwal/your_stats.svg)](https://wakatime.com/@aansheeagrwal)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aansheeagrwal)](https://wakatime.com/@aansheeagrwal)
+
 
 ---
 
