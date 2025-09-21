@@ -23,10 +23,11 @@ Feel free to reach out to discuss ideas or collaborations 💬!
 - 💬 Ask me about Python, ML, Deep Learning, Gen AI, OpenCV, LLMs, and Data Engineering  
 - 📫 Reach me at: [aansheeagrwal123@gmail.com](mailto:aansheeagrwal123@gmail.com)  
 - 😄 Pronouns: She/Her  
-- 🧾 Check out my resume [here](#)  
-- 📝 I sometimes write articles on my blog [here](#)  
+- 🧾 Check out my resume [here](https://drive.google.com/file/d/1UW7NcTZHbPSbrh6JL0Gg364HKvZr8l_Y/view?usp=drivesdk)  
+- 📝 I sometimes write articles on my blog [here](https://anshiagarwal.substack.com/p/the-ai-signal-machine-curated-brief)  
 - ⚡ Fun fact: I spend more time experimenting with AI than watching Netflix 🤣  
-- ☕ If you like what I do, maybe consider buying me a coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/)  
+- ☕ If you like what I do, maybe consider buying me a coffee: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anshigoyal)
+ 
 
 ---
 
@@ -49,12 +50,6 @@ PySpark, ETL, Power BI, Tableau
 
 **Version Control & Tools:**  
 Git, GitHub, Pycharm, Jupyter, VS Code  
-
----
-
-## 🎧 Spotify Currently Playing
-
-[![Spotify](https://novatorem-spotify-github-readme.vercel.app/api/spotify?user=31borsazrzedik4yhd6vwxoajnpq)](https://open.spotify.com/user/31borsazrzedik4yhd6vwxoajnpq)  
 
 ---
 
